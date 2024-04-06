@@ -1,5 +1,5 @@
 # Ubuntu-Server
-My first attempt at learning and configuring anything in Linux. These are the steps I took that led up to the state that it's in today.
+My first attempt at configuring anything in Linux. In this lab, I tackle learning Docker by spinning up a containerized Minecraft server.
 <br />
 
 <h2> Hello Docker, Hello World!</h2>
@@ -12,7 +12,7 @@ My first attempt at learning and configuring anything in Linux. These are the st
 <br />
 <br />
 
-<p1> Run Hello World to see that Docker is installed correctly:</p1>
+<p1> Create a Directory for Minecraft and Plugins:</p1>
 <a href="https://imgur.com/0lQg4An"><img src="https://imgur.com/0lQg4An.png" height="80%" width="80%" alt=""/>
 
 <br />
