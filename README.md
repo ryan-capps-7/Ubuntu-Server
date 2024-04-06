@@ -13,7 +13,7 @@ My first attempt at learning and configuring anything in Linux. These are the st
 <br />
 
 <p1> Run Hello World to see that Docker is installed correctly:</p1>
-<a href="https://i.imgur.com/a/aLPZzD5"><img src="https://i.imgur.com/a/aLPZzD5.png" height="80%" width="80%" alt=""/>
+<a href="https://i.imgur.com/a/D0YBVTP"><img src="https://i.imgur.com/a/aLPZzD5.png" height="80%" width="80%" alt=""/>
 
 <br />
 <br />
