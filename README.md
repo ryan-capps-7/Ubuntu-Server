@@ -18,5 +18,5 @@ My first attempt at configuring anything in Linux. In this lab, I tackle learnin
 <br />
 <br />
 
-<p1> Configuration Files Use .yaml Extension:</p1>
+<p1> Used nano to Create .yaml Configuration File:</p1>
 <a href="https://imgur.com/qSh9vud"><img src="https://imgur.com/qSh9vud.png" height="80%" width="80%" alt=""/>
