@@ -6,4 +6,4 @@ My first attempt at learning and configuring anything in Linux. These are the st
 <p align="center">
 <p1> Run Hello World to see that Docker is installed correctly:</p1>
 <br />
-<img src="https://i.imgur.com/a/jEtPy5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/jEtPy5C.png" height="80%" width="80%" alt=""/>
